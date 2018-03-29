@@ -1,0 +1,15 @@
+{
+  "name": "phantomjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "phantomjs":"./node_modules/.bin/phantomjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "phantomjs": "^2.1.7+deprecated"
+  }
+}
